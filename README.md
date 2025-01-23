@@ -1,4 +1,6 @@
-# CatBot - Chatbot Deployment Guide 
+# CatBot - Chatbot Deployment and Development Guide 
+
+![chatbots](https://github.com/user-attachments/assets/b9540f26-d498-48f9-804e-f7f559d7d392)
 
 ## Overview
 
